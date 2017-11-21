@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">SearchUI</string>
+	<string-array name="tab_names">
+		<item>首页</item>
+		<item>应用</item>
+	</string-array>
+</resources>

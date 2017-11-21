@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="customCheckedTextView">
+		<attr name="isTrue" format="string" />
+		<attr name="isFalse" format="string" />
+	</declare-styleable>
+</resources>

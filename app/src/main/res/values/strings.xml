@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmarTokyo</string>
+    <string name="start">開始</string>
+
+    <!-- bottom -->
+    <string name="home">ホーム</string>
+</resources>

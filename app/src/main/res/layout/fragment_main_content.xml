@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:cus="http://schemas.android.com/apk/res/com.awesome.tranbean.smartokyo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+	<com.awesome.tranbean.smartokyo.custom.customCheckedTextView
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+
+		android:text="I love you"/>
+
+	<RadioGroup
+		android:id="@+id/rg_bottom"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:background="@drawable/bottom_tab_bg"
+		android:orientation="horizontal">
+
+		<RadioButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:button="@null"
+			android:drawableTop="@drawable/selector_home"
+			android:text="@string/home"
+			android:textColor="#fff"
+		    android:gravity="center"
+		    android:padding="5dp"
+		    android:layout_gravity="center_vertical"
+			/>
+
+		<RadioButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:button="@null"
+			android:drawableTop="@drawable/selector_home"
+			android:text="@string/home"
+			android:textColor="#fff"
+			/>
+
+		<RadioButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:button="@null"
+			android:drawableTop="@drawable/selector_home"
+			android:text="@string/home"
+			android:textColor="#fff"
+			/>
+
+		<RadioButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:button="@null"
+			android:drawableTop="@drawable/selector_home"
+			android:text="@string/home"
+			android:textColor="#fff"
+			/>
+
+		<RadioButton
+			android:layout_width="0dp"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:button="@null"
+			android:drawableTop="@drawable/selector_home"
+			android:text="@string/home"
+			android:textColor="#fff"
+			/>
+
+	</RadioGroup>
+
+</RelativeLayout>

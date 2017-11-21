@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SmarTokyo.iml" filepath="$PROJECT_DIR$/SmarTokyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clearedittext/clearedittext.iml" filepath="$PROJECT_DIR$/clearedittext/clearedittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exlistview/exlistview.iml" filepath="$PROJECT_DIR$/exlistview/exlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc_recyclerview/imooc_recyclerview.iml" filepath="$PROJECT_DIR$/imooc_recyclerview/imooc_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearlayouttraining/linearlayouttraining.iml" filepath="$PROJECT_DIR$/linearlayouttraining/linearlayouttraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" filepath="$PROJECT_DIR$/recyclerviewtest/recyclerviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relativelayouttraining/relativelayouttraining.iml" filepath="$PROJECT_DIR$/relativelayouttraining/relativelayouttraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchui/searchui.iml" filepath="$PROJECT_DIR$/searchui/searchui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testviewpagerfragments/testviewpagerfragments.iml" filepath="$PROJECT_DIR$/testviewpagerfragments/testviewpagerfragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videoview/videoview.iml" filepath="$PROJECT_DIR$/videoview/videoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagertest/viewpagertest.iml" filepath="$PROJECT_DIR$/viewpagertest/viewpagertest.iml" />
+    </modules>
+  </component>
+</project>

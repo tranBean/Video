@@ -1,0 +1,1 @@
+include ':app', ':videoview', ':library', ':imooc_recyclerview', ':linearlayouttraining', ':relativelayouttraining', ':recyclerviewtest', ':apps', ':searchui', ':viewpagertest', ':clearedittext', ':exlistview', ':testviewpagerfragments'

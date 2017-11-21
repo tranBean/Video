@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">ClearEditText</string>
+	<string name="name_tip">请输入值</string>
+</resources>
